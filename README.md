@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Toko Online Saya</title>
+<title>O'Bay Market</title>
 
 <style>
 body {
